@@ -2,5 +2,5 @@
 Developed by: Ananya Seth <br>
 Steps:
 
-1.Download and install the JDK from setup provided. Simply click yes and okay to install.
+1.Download and install the JDK from setup provided. Simply click yes and okay to install.<br>
 2.Download the temperature convert Jar file and enjoy.
