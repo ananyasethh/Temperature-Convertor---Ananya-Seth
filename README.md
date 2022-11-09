@@ -1,5 +1,5 @@
 # Temperature-Convertor---Ananya-Seth
-Developed by: Ananya Seth
+Developed by: Ananya Seth <br>
 Steps:
 
 1.Download and install the JDK from setup provided. Simply click yes and okay to install.
